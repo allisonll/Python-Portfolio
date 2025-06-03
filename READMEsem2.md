@@ -1,4 +1,4 @@
-#Python Portfolio
+Python Portfolio
 This is where I store information on my Semester 2 Code 
 _______________________________________________________________________________________________________________________________
 Project 1: Netflix Movie Generator ~ This program allows users to find a movie on Netflix based on a movie rating and genre. 
